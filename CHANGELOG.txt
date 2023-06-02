@@ -1,0 +1,8 @@
+Vikhlinin Changelog
+====================
+
+v 0.0.1
+-------
+
++ Initial upload of the fitting module.
++ Profile data are imported as unyt or numpy arrays.
